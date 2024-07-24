@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "49550759246",
+    "project_id": "flutter-testovoe",
+    "storage_bucket": "flutter-testovoe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49550759246:android:bc5f93d7df54c5c85cfa1f",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKqUqqXHyHv4MtZ_W1cQ9lkNC282AN1P0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
